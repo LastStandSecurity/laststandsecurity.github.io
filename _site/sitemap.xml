@@ -2,6 +2,22 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
     <url>
+      <loc>http://localhost:4000/2024-07/Sofia-Santos-OSINT-Exercise-028-write-up</loc>
+      
+        <lastmod>2024-07-13T00:00:00+01:00</lastmod>
+      
+
+      
+        <changefreq>weekly</changefreq>
+      
+
+      
+          <priority>0.5</priority>
+      
+
+    </url>
+  
+    <url>
       <loc>http://localhost:4000/2021-03/sans-holiday-hack</loc>
       
         <lastmod>2021-03-20T00:00:00+00:00</lastmod>
@@ -18,25 +34,9 @@
     </url>
   
     <url>
-      <loc>http://localhost:4000/2021-03/nahamcon2021</loc>
+      <loc>http://localhost:4000/2019-08/BSides-Manchester-An_Introduction-to-OWASP-Juice-Shop</loc>
       
-        <lastmod>2021-03-17T00:00:00+00:00</lastmod>
-      
-
-      
-        <changefreq>weekly</changefreq>
-      
-
-      
-          <priority>0.5</priority>
-      
-
-    </url>
-  
-    <url>
-      <loc>http://localhost:4000/2021-03/osindojo</loc>
-      
-        <lastmod>2021-03-08T00:00:00+00:00</lastmod>
+        <lastmod>2019-08-20T00:00:00+01:00</lastmod>
       
 
       

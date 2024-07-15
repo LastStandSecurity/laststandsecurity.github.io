@@ -180,11 +180,6 @@ img {
     }
     }
 
-    @include mobile-only {
-        margin-top: 2rem;
-        margin-left: 1rem;
-        margin-right: 1rem;
-    }
 
     
 
@@ -315,7 +310,6 @@ img {
     }
 
     @include mobile-only {
-        margin-top: 3rem;
         width: 100%;
     }
 }
